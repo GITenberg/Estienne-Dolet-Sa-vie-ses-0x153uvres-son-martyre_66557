@@ -1,0 +1,26 @@
+_repo: Estienne-Dolet-Sa-vie-ses-0x153uvres-son-martyre_66557
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Boulmier, Joseph
+    birthdate: 1821
+    gutenberg_agent_id: '53863'
+    url: http://www.gutenberg.org/2009/agents/53863
+description: ''
+gutenberg_issued: '2021-10-17'
+identifiers:
+  gutenberg: '66557'
+  lccn: '22019287'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, French -- 16th century -- Biography'
+- !lcsh 'Editors -- France -- Biography'
+- !lcsh 'Printers -- France -- Biography'
+- !lcsh 'Dolet, Étienne, 1509-1546'
+- !lcc 'Z'
+- GITenberg
+title: 'Estienne Dolet: Sa vie, ses œuvres, son martyre'
+url: http://www.gutenberg.org/ebooks/66557
