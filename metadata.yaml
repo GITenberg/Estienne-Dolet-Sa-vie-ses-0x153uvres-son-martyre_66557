@@ -1,5 +1,8 @@
 _repo: Estienne-Dolet-Sa-vie-ses-0x153uvres-son-martyre_66557
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66557-h/images/cover.jpg
 creator:
   author:
     agent_name: Boulmier, Joseph
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '53863'
     url: http://www.gutenberg.org/2009/agents/53863
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66557#Estienne-Dolet-Sa-vie-ses-0x153uvres-son-martyre
 gutenberg_issued: '2021-10-17'
 identifiers:
   gutenberg: '66557'
